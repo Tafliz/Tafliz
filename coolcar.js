@@ -1,0 +1,1 @@
+document.write("my car is a"+coolcar+"and I drive it to "+coolplace );

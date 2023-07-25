@@ -1,0 +1,53 @@
+<!DOCTYPE html public>
+<html>
+
+<head><title>DPI Dot Per Inch pixels</title>
+
+<style type= 'text/css'>
+
+div{
+background:#000;
+border: 1px soild rgb (128, 128, 128);
+color: white;
+font: 9px monospace;
+margin: 15px;
+text-aline: center;
+}
+
+div#inches{
+width: lin;
+height: lin;
+
+}
+
+div#pixels{
+width: 96px;
+height: 96px;
+}
+</style>
+
+</head>
+<body>
+
+<div id='inches'>
+&1t;--1 inch --&gt;
+
+</div>
+
+<div id='pixels'>
+&1t;-- 96 pixels --&gt;
+
+</div>
+
+
+
+
+
+
+
+
+
+
+</body>
+
+</html>
